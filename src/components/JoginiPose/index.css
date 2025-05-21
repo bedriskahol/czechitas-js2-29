@@ -1,0 +1,11 @@
+
+.jogini {
+    display: flex;
+    
+    margin-bottom: 1rem;
+    padding: 1rem 2rem;
+
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 0 10px #bbb;
+  }
